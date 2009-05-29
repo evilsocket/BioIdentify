@@ -1,0 +1,13 @@
+BioIdentify Copyright (C) 2009-2010 Simone Margaritelli aka evilsocket
+<evilsocket@gmail.com http://www.evilsocket.net>
+
+BioIdentify is a command line tool for fingerprints feature extraction, one-on-one matching and one-on-many  matching .
+Actually it implements some biometry algorithms such as hit-n-miss thinning, Gabor enhancements and so on .
+
+NOTES:
+
+- An in depth explaination of the algorithms pipeline can be found here (in italian) 
+  http://www.evilsocket.net/135/estrazione-delle-features-dalle-impronte-digitali.html
+
+- You can generate some synthetic fingerprint to test the code with this tool
+  http://biolab.csr.unibo.it/ResearchPages/SFinGe_Download.asp
